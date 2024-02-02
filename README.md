@@ -10,13 +10,20 @@ The data consists of four excel sheets – Orders, Customers, Salesperson, City
 
 Key Insights:
 
--The delivery punctuality stands at 183,000 units, while the overall count of successfully delivered orders amounts to 243,340 units.
--The total number of customers is 11,630. 
+-The delivery punctuality stands at 183,000 units, while the overall count of successfully delivered orders amounts to 243,340 units. 
+
+-The total number of customers is 11,630.
+
 -In 2019, the total orders delivered amounted to 146,338, while in 2020, the number decreased to 97,005.  
+
 -The total number of returns was 37,000. 
--The grocery store service channel received a maximum of 59,930 orders and The Bazar service channel received the minimum number of orders
+
+-The grocery store service channel received a maximum of 59,930 orders and The Bazar service channel received the minimum number of orders.
+
 -City Vista and Warren collectively accounted for the highest order placement, making up approximately 28.2% of the total orders.
+
 -Customer 5974 had the highest sum of returns, totaling 192 and The customer with ID 148027 placed the maximum number of orders.
+
 -March and June of the year 2019 exhibited high On-Time Delivery (OTD) performance.
 
 In conclusion, we have successfully generated the logistics dashboard, which includes a comprehensive list of Key Performance Indicators (KPIs). The report is enriched with visualizations presenting diverse metrics, facilitating a thorough analysis of the provided data.
