@@ -1,4 +1,4 @@
-# Logistic-Dashboard
+# Logistic-Analysis
 ### Problem Statement
 A logistics and supply chain firm is planning to develop a dashboard for OTIF Analysis, a crucial metric in the logistics industry that gauges a supplier's effectiveness in delivering products within specified timeframes and in the exact quantities ordered. Originating as a strategy to enhance store operations at Walmart, OTIF has gained widespread adoption across various retailers and companies, prompting significant operational adjustments. The dataset for this analysis encompasses four sheets: Orders, Salesperson, Customers, and City.
 
